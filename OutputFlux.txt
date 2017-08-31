@@ -1,0 +1,15 @@
+stereo_Subarray3FL4M05-5:) root -l -b -q "${MARSSYS}/macros/CTAflux.C+(1,0,\"./Gamma/.\")"
+
+Searching Mars in /nfs/cta-ifae/pcumani/Packages/MARS/Mars-CVS/Mars/ (MARSSYS)
+
+Loading '/nfs/cta-ifae/pcumani/Packages/MARS/Mars-CVS/Mars/libmars.so done.
+
+Welcome to the Mars Root environment.
+
+root [0] 
+Processing ../../../CTAflux.C+(1,0,"./Gamma/.")...
+0/5959
+/nfs/cta-ifae/pcumani/Tutorial/Stereo/AllLUTsRFs/stereo_Subarray3FL4M05-5/gamma_20deg_0deg_run10___cta-prod3-lapalma-2147m-LaPalma-NectarCam_3FL4M05-5_S.root
+/nfs/cta-ifae/pcumani/Tutorial/Stereo/AllLUTsRFs/stereo_Subarray3FL4M05-5/gamma_20deg_0deg_run7797___cta-prod3-lapalma-2147m-LaPalma-NectarCam_3FL4M05-5_S.root
+Info in <TCanvas::MakeDefCanvas>:  created default TCanvas with name c1
+(Int_t)0

@@ -1,0 +1,7 @@
+# A line with the candidate name followed by another line with its telescope ids:
+3AL4M00
+1 2 3 4
+3AL2M00
+1 2
+3FL4M05-5
+1 2 3 4 40 44 48 52 56
