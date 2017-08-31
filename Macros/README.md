@@ -1,7 +1,5 @@
-.. _CTAMacros:
-
 =====================================================
-#Macros to use MARS to analyse CTA simulations
+# Macros to use MARS to analyse CTA simulations
 =====================================================
 
 These macros are the result of the work of (mainly) Abelardo Moralejo, Tarek Hassan and Paolo Cumani. Please acknowledge their contribution.
